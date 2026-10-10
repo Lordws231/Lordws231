@@ -29,6 +29,12 @@ Founder & full-stack developer building **Oruva Transportation Services** — or
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+**Blockchain & Web3**
+![Bonk Inu](https://img.shields.io/badge/Bonk_Inu-FF8C00?logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098EA?logo=ton&logoColor=white)
+![Supra](https://img.shields.io/badge/Supra-2563EB?logoColor=white)
+![BSC](https://img.shields.io/badge/BSC-181717?logo=bnbchain&logoColor=F0B90B)
+
 ## 📊 GitHub stats
 
 ![Abiodun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordws231&show_icons=true&theme=transparent)
