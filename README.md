@@ -43,4 +43,4 @@ Founder & full-stack developer building **Oruva Transportation Services** — or
 
 - 𝕏 — [@AbiodunOyaniyi](https://x.com/AbiodunOyaniyi)
 - 💼 — [LinkedIn](https://www.linkedin.com/in/abiodun-oyaniyi-6aab0a253)
-- 🌍 — [oruva.polsia.io](https://oruva.com.ng)
+- 🌍 — [oruva.com.ng](https://oruva.com.ng)
