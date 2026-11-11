@@ -4,7 +4,7 @@ Founder & full-stack developer building **Oruva Transportation Services** — or
 
 ## 🚀 Currently building
 
-**Oruva** · [oruva.polsia.io](https://oruva.polsia.io)
+**Oruva** · [oruva.com.ng](https://oruva.com.ng)
 - Fiat + blockchain payments for rides, moving & haulage
 - ORVA rewards token on Solana + community engagement platform
 - Driver loans & savings, transport-integrated advertising
@@ -43,4 +43,4 @@ Founder & full-stack developer building **Oruva Transportation Services** — or
 
 - 𝕏 — [@AbiodunOyaniyi](https://x.com/AbiodunOyaniyi)
 - 💼 — [LinkedIn](https://www.linkedin.com/in/abiodun-oyaniyi-6aab0a253)
-- 🌍 — [oruva.polsia.io](https://oruva.polsia.io)
+- 🌍 — [oruva.polsia.io](https://oruva.com.ng)
